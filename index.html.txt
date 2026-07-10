@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en" style="
+scroll-behavior:smooth;">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="Author" content="Aditya"/>
+<title>Relcof-Coffee Shop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<!--BACKGROUND IMAGE-->
+<body style='background-image:url("https://i.ibb.co/DN32nFr/relcof-bg2.png")'>
+<!--Div for body[START]-->
+<div style="max-width:1200px; margin:0 auto;">
+
+<!--Header with NAvigation links [START]-->
+<header>
+
+<!--Div FOR LOGO [START]-->
+<div style="text-align:center;">
+<img src="https://i.ibb.co/215ZbygH/relcof-logo.jpg" alt="RELCOF LOGO" style="width:50%;max-width:200px;margin:0 auto;">
+</div>
+<!--Div FOR LOGO [End ]-->
+
+<nav>
+<a href="#about">About </a>
+<a href="#menu">Menu</a>
+<a href="#Overview">Overview</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+<!--Header with NAvigation links [END]-->
+
+
+<!--Cafe Welcome Board [START]-->
+<section id="Hero">
+
+<!--DIv for Cafe Image [START]-->
+<div style="text-align:center; margin-top:30px">
+<img src="https://i.ibb.co/8DVr2KMj/Screenshot-2026-07-03-220007.png" style="width:100%;max-width:600px;" id="img" alt="Shop Image">
+</div>
+<!--DIv for Cafe Image [END]-->
+
+<p style="text-shadow:1px 1px 2px rgba(0,0,0,0.5);"> 𓂃𓂃𓂃𓂃𓂃𓂃𓂃♨♨𓂃𓂃𓂃𓂃𓂃𓂃𓂃</p>
+<h1 style="margin-top:10px">
+"Welcome to Relcof</h1>
+<h2>Relief in Every Sip"</h2>
+<p style="font-size:30px">ྀིྀི☕︎ᝰ.ᐟ</p>
+</section>
+<!--Cafe Welcome Board [END]-->
+
+
+<!--About Us [START]-->
+<section id="about" style="padding:16px;border-radius:10px">
+<h1>About Us</h1>
+<p id="op">‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅ ⋅</p>
+<h3>What is Relcof?</h3>
+<p>
+<strong>Relcof</strong> is born from two simple words —
+<em>Relief</em> and <em>Coffee</em>.
+</p>
+
+<p>
+Life is busy. Moments are rushing.
+But that one cup of coffee —
+it slows everything down.
+<strong>That is Relcof.</strong>
+</p>
+
+<p>
+We are not just a coffee shop.
+We are your <em>moment of relief</em> —
+in every sip, in every visit,
+in every memory made here.☕︎☕︎
+</p>
+
+<p>
+<u>Rel</u>ief + <u>Cof</u>fee
+&nbsp;=&nbsp;
+<strong>Relcof</strong>
+</p>
+<p>𓍯𓂃𓏧♡</p>
+</section>
+<!--About Us [END]-->
+
+
+<!-- Video Section [START] -->
+<section id="video-ad">
+
+<h2 style="text-align:center;font-size:clamp( 24px, 8vw, 50px);margin-bottom:-16px;text-shadow:2px 3px 4px rgba(200,100,150,0.3);">Experience Relcof ✌︎㋡</h2>
+<div class="video-wrapper" style="box-shadow:0 1px 1px 8px rgba(75,57,50,0.2);">
+<p style="text-align:center;font-size:clamp( 24px, 8vw, 50px);">˙✧˖° ༘ ⋆｡ ˚˙✧˖° ༘ ⋆｡ ˚</p>
+<video
+autoplay
+muted
+loop
+playsinline
+controls>
+<source src="https://res.cloudinary.com/dn1zh15pp/video/upload/q_auto,f_auto,w_720/v1783439468/0703_1_ed1uwe.mp4" type="video/mp4">
+</video>
+<p style="text-align:center;font-size:clamp( 24px, 8vw, 50px);">˙✧˖° ༘ ⋆｡ ˚˙✧˖° ༘ ⋆｡ ˚</p>
+</div>
+<!-- Video Section [END] -->
+
+
+</section>
+<!--MENU SECTION [START]-->
+<section id="menu" style="background-color:#4B2F32;color:#EAD4B3;border-radius:5px; overflow:hidden;padding:12px;">
+<!--Div for menu section background image [START]-->
+<div style='background-image:url("https://i.ibb.co/g5Qtdzy/Screenshot-2026-07-07-165602.png");background-size: cover; background-position:center;background-repeat: no-repeat; border-radius: 30px;margin: 30px auto;max-width:1100px; background-blend-mode: overlay;background-color: rgba(139,94,60,0.4);'>
+<h2 style="text-align:center;
+color:#EAD4B3;
+margin-top:clamp(10px, 2vw, 20px);
+font-style:italic;
+font-family:Cormorant Garamond, serif;
+font-size:clamp(20px,7vw,44px);
+box-shadow:-3px 3px 5px -2px rgba(300, 100, 100, 0.4);
+text-shadow:2px 2px 2px rgba(0,0,0,0.6);
+font-weight:bolder;"> 𖠚⛾ MENU SECTIONᝰ</h2>
+</div>
+<!--Div for menu section background image [END]-->
+
+<!--Hot Coffee Section [START]-->
+<div style="line-height:1; text-align:center;box-shadow:1px 1px 3px 5px rgba(212,160,23,0.15);overflow:hidden; padding:3px;border: 1px solid rgba(212,160,23,0.4);background-color: #3C2710;">
+<p style="font-style:italic;
+margin:0;
+padding:0;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,28px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<h3 style="margin:0;
+padding:0;
+font-style:italic;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,25px);
+text-shadow:2px 2px 2px rgba(0,0,0,0.3);
+font-weight:bolder;">𑣲⋆HOT⋆☕︎˖COFFEE⋆˚࿔
+</h3>
+
+<p style="font-style:italic;
+margin:0;
+padding:0;
+position:relative;
+top:-18px;
+font-family:'Monospace', serif;
+font-size:clamp(20px,5.5vw,38px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<!--Div for Hot Coffee Card [START]-->
+<div style="display:flex; flex-wrap:wrap; gap:20px;justify-content:center; padding:clamp(2px,1vw,20px);">
+
+<!--1.Espresso[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/LD71TfK5/Pngtree-rich-espresso-coffee-in-a-20399844-1.png" alt="Espresso coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Espresso
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Strong shot.✦˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹80ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--1.Espresso [END]-->
+
+
+<!--2.Americano[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/4ZrrTmxJ/Pngtree-transparent-americano-coffee-16552879.png" alt="Americano coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Americano
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Diluted espresso.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹150ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--2.Americano [END]-->
+
+
+<!--3.Cappuccino[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/9XJpDPV/Screenshot-2026-07-08-103609-removebg-preview.png" alt="Cappuccino coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Cappuccino
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Foamy milk.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹210ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--3.Cappuccino[END]-->
+
+<!--4.Latte[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/XkdvTKLw/Screenshot-2026-07-08-103201-removebg-preview.png" alt="Latte coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Latte
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Creamy milk.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹240ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--4.Latte [END]-->
+
+<!--5.Macchiato[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/zTjs2gHn/Screenshot-2026-07-08-102948-removebg-preview.png" alt="Macchiato coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Macchiato
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Milk-marked.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹190ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--5.Macchiato[END]-->
+
+<!--6.Mocha[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;background-color:#9A7B4F;color:#FFDFC8;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/wFLPcnLp/Pngtree-mocha-coffees-isolated-on-white-17954180.png" alt="Mocha coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Mocha
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Chocolatey coffee.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹270ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--6.Mocha [END]-->
+</div>
+<!--Div for Hot Coffee Card [END]-->
+
+<p style="text-align:center;font-size:clamp(20px,4vw,40px);font-weight:lighter;color:#FFFFF8;margin-top:10px;">݁......𓏲ּ𝄢 𓁇𓁋˖Ი𐑼⋆......</p>
+</div>
+<!--Hot Coffee Section [END]-->
+
+
+<!--Cold Coffee Section [START]-->
+<div style="line-height:1; text-align:center;box-shadow:1px 1px 3px 5px rgba(18, 105, 81,0.15);overflow:hidden; padding:3px;border: 1px solid rgba(107, 165, 180,0.4);background-color: #DCEEF0;margin-top:20px;color:#2C5F6F;">
+<p style="font-style:italic;
+margin:0;
+padding:0;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,28px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<h3 style="margin:0;
+padding:0;
+font-style:italic;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,25px);
+text-shadow:2px 2px 2px rgba(0,0,0,0.3);
+font-weight:bolder;">◡̈ ⋆Cold⋆𖠚˖COFFEE⋆˚࿔
+</h3>
+
+<p style="font-style:italic;
+margin:0;
+padding:0;
+position:relative;
+top:-18px;
+font-family:'Monospace', serif;
+font-size:clamp(20px,5.5vw,38px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<!--Div for Cold coffee Card [START]-->
+<div style="display:flex; flex-wrap:wrap; gap:20px;justify-content:center; padding:clamp(2px,1vw,20px);color:#2C5F6F;;background-color:#F5FAFA;">
+
+<!--1.Cold Brew[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/4R4MH8qp/Screenshot-2026-07-08-112634-removebg-preview.png" alt="Cold Brew coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Cold Brew
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Smooth, strong.✦˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹150ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--1.Cold Brew[END]-->
+
+
+<!--2.Iced Latte[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/VWK0vLqQ/Screenshot-2026-07-08-112948-removebg-preview.png" alt="Iced Latte coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Iced Latte
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Chilled, creamy.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹190ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--2.Iced Latte [END]-->
+
+
+<!--3.Frappe[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/Kc3rbR0b/Screenshot-2026-07-08-113339-removebg-preview.png" alt="Frappe coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Frappe
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Blended, frothy.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹160ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--3.Frappe[END]-->
+
+<!--4.Iced Mocha[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/j9znwqGq/Screenshot-2026-07-08-113540-removebg-preview.png" alt="Iced Mocha coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Iced Mocha
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Chocolatey, cold.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹230ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--4.Iced Mocha[END]-->
+</div>
+<!--Div for Cold Coffee Card [END]-->
+
+<p style="text-align:center;font-size:clamp(20px,4vw,40px);font-weight:lighter;color:#8B5E3C;margin-top:10px;">݁......𓍼𖠋♡𖠋ᝰ.ᐟ......</p>
+</div>
+<!--Cold Coffee Section [END]-->
+
+
+<!--Combo Coffee Section [START]-->
+<div style="line-height:1; text-align:center;box-shadow:0 4px 10px rgba(184, 134, 11,0.25);overflow:hidden; padding:3px;border: 1px solid rgba(201, 150, 62,0.4);background-color: #F7E4C9;margin-top:20px;color:#7A4F1D;">
+<p style="font-style:italic;
+margin:0;
+padding:0;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,28px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<h3 style="margin:0;
+padding:0;
+font-style:italic;
+font-family:'Monospace', serif;
+font-size:clamp(15px,5.5vw,25px);
+text-shadow:2px 2px 2px rgba(0,0,0,0.3);
+font-weight:bolder;">؛༊ ⋆Combo⋆☕︎𖠚˖⋆˚࿔
+</h3>
+
+<p style="font-style:italic;
+margin:0;
+padding:0;
+position:relative;
+top:-18px;
+font-family:'Monospace', serif;
+font-size:clamp(20px,5.5vw,38px);
+font-weight:bolder;">﹏﹏﹏﹏﹏
+</p>
+
+<!--Div for Combo coffee Card [START]-->
+<div style="display:flex; flex-wrap:wrap; gap:20px;justify-content:center; padding:clamp(2px,1vw,20px);color:#7A4F1D ;background-color:#FCEEDD;">
+
+<!--1.Espresso + Cappuccino[START]-->
+<div style="box-shadow: 0 4px 10px rgba(184, 134, 11, 0.25);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/YBLgWWFX/Screenshot-2026-07-08-115906-removebg-preview.png" alt="Espresso + Cappuccino combo coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Espresso + Cappuccino
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Strong & foamy.✦˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹350ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--1.Espresso + Cappuccino[END]-->
+
+
+<!--2.Cold Brew + Iced Mocha[START]-->
+<div style="box-shadow:0 1px 3px 5px rgba(232, 215, 188,0.5);border-radius:12px; width:clamp(130px, 20vw, 200px);height:auto;padding:10px;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;flex-direction: column;text-shadow:1px 2px 5px rgba(64, 35, 3,0.5);">
+<img src="https://i.ibb.co/VcBPXbRy/Screenshot-2026-07-08-115729-removebg-preview.png" alt="Cold Brew + Iced Mocha combo coffee image PNG" style="width:100%;max-width:250px;margin:0 auto;object-fit:cover;text-align:center;">
+<h4 style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(20px,3vw,30px);
+font-weight:bold;
+margin-top:-5px;
+text-align:center;
+margin-bottom:-15px;">
+Cold Brew + Iced Mocha
+</h4><br>
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(13px,2.5vw,20px);
+font-weight:bold;
+margin-top:-20px;
+margin-bottom:-30px;
+text-align:center;"> ✦Chilled, creamy.✦ ݁˖ </p><br>
+
+<p style="font-family:'Cormorant Garamond', serif;
+font-size:clamp(16px,2.5vw,25px);
+font-weight:bold;
+text-align:center;">˗ˏˋ₹399ˎˊ˗</p>
+
+<button style="border-radius:10px;font-style:italic;font-family:cursive;font-weight:bold;">ORDER NOW</button>
+</div>
+<!--2.Cold Brew + Iced Mocha [END]-->
+
+</div>
+<!--Div for Cold Coffee Card [END]-->
+
+<p style="text-align:center;font-size:clamp(20px,4vw,40px);font-weight:lighter;color:#2C5F6F;margin-top:10px;">݁......࣪ ִֶָ☾.𐦂𖨆𐀪𖠋ッ......</p>
+</div>
+<!--Cold Coffee Section [END]-->
+</section>
+<!--MENU SECTION[END]-->
+
+<p style="text-align:center;font-size:clamp(20px,4vw,40px);font-weight:lighter;color:#4B2F32;margin-top:30px;">؛༊݁જ⁀➴𓈒𓏸.°•؛༊݁જ⁀➴𓈒𓏸.°•؛༊݁જ⁀➴𓈒𓏸.°•؛</p>
+
+<!--Overview Section[START]-->
+<section id="Overview">
+<div style="box-shadow:1px 2px 7px 7px rgba(95,80,150,0.5);padding:clamp(10px,2vw,20px);border-radius:20px;">
+<h2 style="text-align:center;font-family:cursive;font-style:italic;text-shadow:1px 1px 3px rgba(155,175,210,0.5);font-size:clamp(22px,3vw,33px);box-shadow:1px 2px 6px 6px rgba(95, 173, 184,0.7);width:fit-content;margin:10px auto;padding-bottom:clamp(10px,1.5vw,20px);">【𖣂 OUR OVERVIEW 𖣂】</h2>
+
+<!--Schedule [START]-->
+<h3> ˗ˏˋ ꒰We are Open🗒 ⏱꒱ ˎˊ˗ </h3>
+<div style="box-shadow:1px 2px 4px 2px rgba(220,130,98,0.3);">
+<p>↪ Monday - Friday : 8:00 AM - 10:00 PM</p>
+<p>↪ Saturday - Sunday : 9:00 AM - 11:00 PM</p>
+</div>
+<!--Schedule [END]-->
+
+<!--Why wE[START]-->
+<h3 style="margin-top:clamp(15px,2vw,25px);">͙͘͡★ Why wE?.☘︎ ݁˖</h3>
+<div style="box-shadow:1px 2px 4px 2px rgba(220,130,98,0.3);">
+<p>Not just a coffee shop —<strong>a feeling.</strong>
+</p>
+<ul>
+<li>↪ Every cup handcrafted with love</li>
+<li>↪ Fresh beans roasted daily</li>
+<li>↪ Made for your relief, every time</li>
+<li>↪ Where every sip tells a story</li>
+<li>↪ Natural ingredients, no compromise</li>
+</ul>
+</div>
+<!--Why wE [END]-->
+
+<!--Affiliated [START]-->
+<div>
+<h3 style="margin-top:clamp(20px,3vw,30px);"> 𑄝 Affiliated By ੭ˎˊ˗</h3>
+<div style="box-shadow:1px 2px 4px 2px rgba(220,130,98,0.3);">
+<ul>
+<li> <abbr title="Food Safety and Standards Authority of India">
+↪FSSAI
+</abbr>
+Certified
+</li>
+<li>
+<abbr title="Specialty Coffee Association">
+↪SCA
+</abbr>
+Member
+</li>
+<li>
+<abbr title="India Coffee Trust">
+↪ ICT
+</abbr>
+Partner
+</li>
+<li>↪ 22000 Food Safety Certified </li>
+<li>↪Zomato & Swiggy Verified Partner </li>
+</ul>
+</div>
+<!--Affiliated [END]-->
+
+<!--Review [START]-->
+<h3 style="text-align:center;">🖧↳REVIEW BY CUSTOMERS↰ᯤ</h3>
+<h4>── ⋆⋅𖤓⋅⋆ ──</h4>
+<!--1. Polar Review [START]-->
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/YFv9WhnL/Screenshot-2026-07-09-082020-removebg-preview.png" alt="User profile pic">
+<em><i>POLARᝰ.ᐟ</i>:-->★ ★ ★ ★ ★ <br>
+"Relcof is not just a cafe —
+it is a feeling. Every time I walk in,
+the aroma alone melts my stress away.
+Their Espresso is the strongest and
+smoothest I have ever had.
+Truly — Relief in Every Sip!"⁠♡⁠♡⁠♡...<span class="state">--WEST BENGAL</span>
+</em>
+</p>
+<!--1. Polar Review [End]-->
+
+<!--2.Koala Review [START]-->
+<div style="margin-top:clamp(10px,2vw,15px)";>
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/HpRCgYNK/Screenshot-2026-07-09-081956-removebg-preview.png" alt="User profile pic">
+<em><i>KOALAᨳଓ.ᐟ</i>:-->★ ★ ★ ★ ★ <br>
+"I discovered Relcof on a stressful
+Monday morning and it changed my day
+completely. The Cold Brew here is
+absolutely divine — rich, smooth and
+perfectly chilled. The vibe inside is
+so cozy, I never want to leave!"ꨄ︎ꨄ︎...<span class="state">--BIHAR</span>
+</em>
+</p>
+</div>
+<!--2.Koala Review [End]-->
+
+<!--3.Shortie Review [START]-->
+<div style="margin-top:clamp(10px,2vw,15px)";>
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/PsTF3sVR/Screenshot-2026-07-09-102556-removebg-preview.png" alt="User profile pic">
+<em><i>SHORTIE☣︎✌︎.ᐟ</i>:-->★ ★ ★ ★ ★ <br>
+"Relcof is my absolute sanctuary.
+I walked in stressed and left completely recharged.
+Their smooth, rich coffee is unmatched, and the cozy vibe instantly melts your worries away.
+It truly lives up to the promise of relief in every sip.
+I cannot recommend this hidden gem enough!"𖤍𖤍...<span class="state">--MAHARASHTRA</span>
+</em>
+</p>
+</div>
+<!--3.Shortie Review [End]-->
+
+<!--4.Open for all Review [START]-->
+<div id="adi" style="margin-top:clamp(10px,2vw,15px)";>
+<p>⌯⌲</p>
+<img src="https://i.ibb.co/Y7PJkCWM/Screenshot-2026-07-09-103623-removebg-preview.png" alt="User profile pic">
+<em>☆☆☆☆☆<br>
+<form id="Submit">
+<label for="write">Write Your Review❦</label>
+<input id="write" type="text" placeholder="˚˖˚˖˚˖˚˖.....">
+<input type="submit">
+</form>
+</em>
+</div>
+<!--4.Open for all Review [End]-->
+</div>
+</section>
+<!--Overview Section [END]-->
+
+<p style="text-align:center;font-size:clamp(20px,4vw,40px);font-weight:lighter;color:#4B2F32;margin-top:20px;">✩˚⋆☾𓃦☽⋆⁺₊✧₊⋆☾𓃦☽⋆✧✩₊⋆☾𓃦☽⋆✧</p>
+
+<!--Contact Us Section [START]-->
+<footer id="contact">
+<!--columns -->
+<div style="display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;
+gap:30px;">
+
+<!--Logo + About[START]-->
+<div style="text-align:center;">
+<img src="https://i.ibb.co/215ZbygH/relcof-logo.jpg" alt="Relcof Logo" style="width:150px;">
+<p>Relief in Every Sip ☕︎ྀི</p>
+</div>
+<!--Logo + About[END]-->
+
+<!--Quick Links[START] -->
+<div>
+<h4><u>Quick Links</u></h4>
+<ul>
+<li><a href="#about"
+style="color:#EAD4B3;
+text-decoration:none;">About</a></li>
+<li><a href="#menu"
+style="color:#EAD4B3;
+text-decoration:none;">Menu</a></li>
+<li><a href="#Overview"
+style="color:#EAD4B3;
+text-decoration:none;">Overview</a></li>
+</ul>
+</div>
+<!--Quick Links[END] -->
+
+<!-- Contact Info[START] -->
+<div>
+<h4>Contact Us</h4>
+<address style="font-style:normal;">
+<p>🏠︎ 123, Coffee Street</p>
+<p>Patna, Bihar</p>
+<a href="tel:+919897198971"
+style="color:#EAD4B3;
+text-decoration:none;">
+˗ˏˋ ☏ ˎˊ˗ +91 9897198971
+</a><br>
+<a href="mailto:relcof@gmail.com"
+style="color:#EAD4B3;
+text-decoration:none;">
+✉ relcof@gmail.com
+</a>
+</address>
+</div>
+<!-- Contact Info[END] -->
+
+<!-- Copyright [START]-->
+<p style="text-align:center;
+margin-top:30px;
+border-top:1px solid rgba(234,212,179,0.2);
+padding-top:0;
+font-size:14px;
+opacity:0.7;">
+© 2026 Relcof. All Rights Reserved.<br>
+Made with 𖹭𓃶 by ĄĐɪʈʏA and special thanks to
+@BroFar, @Ushasi Bhattacharya and Claude
+for their valuable suggestion.
+</p>
+<!--Copyright [end]-->
+</div>
+
+</footer>
+</div>
+<!--Div for body [END]-->
+</body>
+</html>
